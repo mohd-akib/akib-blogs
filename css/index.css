@@ -36,6 +36,10 @@ a:visited {
     text-decoration: none;
 }
 
+.about:visited {
+    color: white;
+}
+
 .home {
     margin-right: 30px;
     /* border: 1px solid black; */
